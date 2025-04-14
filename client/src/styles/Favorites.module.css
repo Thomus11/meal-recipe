@@ -1,0 +1,29 @@
+.container {
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    color: #2d2d2d;
+    margin-bottom: 15px;
+  }
+  
+  .list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item {
+    margin: 10px 0;
+  }
+  
+  .link {
+    color: #00bcd4;
+    text-decoration: none;
+    font-size: 18px;
+  }
+  
+  .link:hover {
+    text-decoration: underline;
+  }
+  
